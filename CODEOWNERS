@@ -324,8 +324,8 @@ AGENTS.md @home-assistant/core
 /tests/components/chess_com/ @joostlek
 /homeassistant/components/chirpstack/ @balloob
 /tests/components/chirpstack/ @balloob
-/homeassistant/components/cielo_home/ @ihsan-cielo @mudasar-cielo
-/tests/components/cielo_home/ @ihsan-cielo @mudasar-cielo
+/homeassistant/components/cielo_home/ @mudasar-cielo @owais-cielo
+/tests/components/cielo_home/ @mudasar-cielo @owais-cielo
 /homeassistant/components/cisco_ios/ @fbradyirl
 /homeassistant/components/cisco_mobility_express/ @fbradyirl
 /homeassistant/components/cisco_webex_teams/ @fbradyirl
