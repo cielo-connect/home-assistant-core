@@ -5,7 +5,7 @@
     "climate.heat_pumps_air_conditioning",
     "climate.thermostats_heating"
   ],
-  "codeowners": ["@ihsan-cielo", "@mudasar-cielo"],
+  "codeowners": ["@mudasar-cielo", "@owais-cielo"],
   "config_flow": true,
   "connectivity": ["cloud"],
   "documentation": "https://www.home-assistant.io/integrations/cielo_home",
